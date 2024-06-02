@@ -1,4 +1,4 @@
-# Investment Return Calculator
+# Investment Return Calculator with C# (C Sharp)
 
 
 ## Table of Contents
